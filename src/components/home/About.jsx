@@ -204,7 +204,7 @@ export default function About() {
           </div>
 
           <div data-scrub-item>
-            <a href="#about" className="inline-block mt-6 btn-primary">
+            <a href="/about" className="inline-block mt-6 btn-primary">
               BEHIND CHISELLE
             </a>
           </div>
